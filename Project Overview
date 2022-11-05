@@ -1,0 +1,20 @@
+ChatBots can provide real-time customer support ,
+we will do this by preparing 'WhatsApp chat data` to train the ChatBots
+
+-> Step [1] , Create a chatbot Using Python ChatterBot
+>> python -m venv .venv
+>> .vebv\Scripts\activate.ps1
+>> python -m pip install chatterbot==1.0.4 pytz
+
+Note -> you should run with python version lower than 3.8 , "3.7.9 very cool"
+
+-> after the installation complete run 
+>> python -m pip freeze
+should bring up list of installed dependencies
+
+-> Ok start now with 'bot.py'
+add the code you need to get a basic chatbot up and running
+
+-> Step [2], Training Your ChatBot
+-> Step [3], Export a whatsapp chat
+-> Step [4], clean your chat export
